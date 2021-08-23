@@ -1,0 +1,42 @@
+body{
+    padding: 100px;
+}
+
+.btn-org{
+    background-color: orange;
+    border: 0px;
+    color: white;
+}
+
+.login-area{
+    /* border: 1px solid red; */
+    margin: 50px ;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px orange;
+}
+
+#home-page{
+    display: none;
+    margin: 50px ;
+    padding: 20px;
+}
+
+.status{
+    margin: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.deposit{
+    background-color: orange;
+}
+
+.withdraw{
+    background-color: rgb(255, 136, 0);
+}
+
+.balance{
+    background-color: rgb(255, 81, 0);
+}
